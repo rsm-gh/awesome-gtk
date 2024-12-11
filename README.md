@@ -155,6 +155,8 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [netease-cloud-music-gtk](https://github.com/gmg137/netease-cloud-music-gtk) - Audio player for the Netease Cloud Music `#rust` `#gtk4` `#libadwaita`.
 - [Resonance](https://github.com/nate-xyz/resonance) - Music player with MPRIS support, Discord Rich presence and Last.fm scrobbling `#rust` `#python` `#gtk4` `#libadwaita`.
 - [Rhythmbox](https://gitlab.gnome.org/GNOME/rhythmbox) - Music management application designed to work well under the GNOME desktop supporting network shares, podcasts, online radio, portable devices (including iPhones) and internet music services such as Last.fm and Magnatune `#c` `#gtk3`.
+- [Tauon](https://tauonmusicbox.rocks) - Playlist oriented music player with many features such has MPRIS support, Android remote control and Spotify playlist management `#python` `#gtk3`.
+- [Victrola](https://github.com/tau-OS/victrola) - tauOS's minimal player `#vala` `#gtk4`.
 
 #### Audio Streaming Service Clients
 
@@ -206,6 +208,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [Cavalier](https://github.com/NickvisionApps/Cavalier) - Audio visualizer based on [CAVA](https://github.com/karlstav/cava) `#csharp` `#gtk4` `#libadwaita`.
 - [Ear Tag](https://apps.gnome.org/EarTag) - Tag editor designed to edit singular files `#python` `#gtk4` `#libadwaita` `#gnome`.
 - [EasyEffects](https://github.com/wwmm/easyeffects) - Audio effects manager (limiter, convolver, equalizer, autovolume and more) for PipeWire applications `#c++` `#gtk4` `#libadwaita`.
+- [LRCMake](https://github.com/Dzheremi2/LRCMake-GTK) - Application to sync lyrics of songs and contribute it to various resources `#python` `#gtk4` `#libadwaita`.
 - [Lyrebird](https://github.com/lyrebird-voice-changer/lyrebird) - Voice changer based on SoX `#python` `#gtk3`.
 - [Mousai](https://apps.gnome.org/ru/Mousai) - Song identifier based on [AudD](https://audd.io) with MPRIS support `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [Myxer](https://github.com/VixenUtils/Myxer) - PulseAudio volume mixer `#rust` `#gtk3`.
@@ -217,6 +220,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 
 ### Music Software
 
+- [ALSA Scarlett2 Control Panel (alsa-scarlett-gui)](https://github.com/geoffreybennett/alsa-scarlett-gui) - GUI for the Focusrite USB audio interfaces (Scarlett Gen 2, 3, 4, Clarett, and Vocaster) for instrument, microphone or MIDI recording `#c` `#gtk4`.
 - [Amp Rack](https://github.com/djshaji/alana) - Guitar / voice audio effects processor for PC (Linux, Windows) and Android `#c++` `#gtk4`.
 - [Chromatic](https://github.com/nate-xyz/chromatic) - Instruments tuner `#rust` `#gtk4` `#libadwaita`.
 - [Drum Machine](https://github.com/Revisto/drum-machine) - Drum machine application to create and play drum beats `#python` `#gtk4` `#libadwaita`.
