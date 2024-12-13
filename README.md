@@ -635,6 +635,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [hamster-gtk](https://github.com/projecthamster/hamster-gtk) - Time tracker provided by `hamster-lib` `#python` `#gtk3`.
 - [Hourglass](https://github.com/sgpthomas/hourglass) - Simple time keeping application for elementaryOS `#vala` `#gtk4` `#granite`.
 - [Khronos](https://apps.gnome.org/Khronos) - Task time logger `#vala` `#gtk4` `#libadwaita`.
+- [Play Timer (mpris-timer)](https://github.com/efogdev/mpris-timer) - Timer application that uses the MPRIS interface `#go` `#gtk4` `#libadwaita`.
 - [Retro](https://github.com/sonnyp/Retro) - Customizable digital clock `#gjs` `#gtk4` `#libadwaita`.
 - [Solanum](https://apps.gnome.org/Solanum) - Pomodoro timer for the GNOME desktop `#rust` `#gtk4` `#libadwaita`.
 - [Timetrack](https://gitlab.gnome.org/danigm/timetrack) - Simple time trakcer for the GNOME desktop `#python` `#gtk3`.
@@ -676,7 +677,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [krb5-auth-dialog](https://gitlab.gnome.org/GNOME/krb5-auth-dialog) - Kerberos tickets monitoring `#c` `#gtk4` `#libadwaita`.
 - [Malcontent](https://gitlab.freedesktop.org/pwithnall/malcontent) - Parental control client `#c` `#gtk4` `#libadwaita`.
 - [Metadata Cleaner](https://apps.gnome.org/MetadataCleaner) - File metadata cleanre based on MAT2 `#python` `#gtk4` `#libadwaita`.
-- [Raider](https://apps.gnome.org/Raider) - Application to securely delete your files for the GNOME desktop `#c` `#gtk4` `#libadwaita`.
+- [File Shredder (Raider)](https://apps.gnome.org/Raider) - Application to securely delete your files for the GNOME desktop `#c` `#gtk4` `#libadwaita`.
 
 ### Password Management
 
@@ -829,6 +830,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 ## Design
 
 - [Contrast](https://gitlab.gnome.org/World/design/contrast) - Tool to check whether the contrast between two colors meet the [WCAG](https://www.w3.org/WAI/standards-guidelines/wcag) requirements `#rust` `#gtk4` `#libadwaita`.
+- [Emblem](https://apps.gnome.org/Emblem) -  Tool to create project avatars/symbolic icons for Matrix rooms or Git forges `#rust` `#gtk4` `#libadwaita`.
 - [Emulsion](https://github.com/lainsce/emulsion) - Color palette manager `#vala` `#gtk4` `#libadwaita`.
 - [Eyedropper](https://apps.gnome.org/Eyedropper) - Color picker and formatter `#rust` `#gtk4` `#libadwaita` `#gnome`.
 - [Harvey](https://github.com/danrabbit/harvey) - Color contrast calculator `#vala` `#gtk4` `#granite`.
