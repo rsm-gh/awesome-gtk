@@ -92,6 +92,7 @@
 - [Finance](#finance)
   - [Budget and Accounting Managers](#budget-and-accounting-managers)
   - [Exchange Rate Viewers](#exchange-rate-viewers)
+  - [Emulators and Compatibility Layers](#emulators-and-compatibility-layers)
 - [Development](#development)
   - [Containers](#containers)
   - [Documentation](#documentation)
@@ -309,7 +310,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 - [GIMP](https://www.gimp.org) - Raster graphics editor used for image manipulation, image editing, free-form drawing and more specialized stask `#c` `#gtk3`.
 - [MyPaint](http://mypaint.org) - Simple drawing and painting program with support for Wacom-style graphics tablets `#python` `#gtk3`.
 - [Obfuscate](https://apps.gnome.org/Obfuscate) - Private information censoring tool `#rust` `#gtk4` `#libadwaita` `#gnome`.
-- [Pinta](https://www.pinta-project.com) - Drawing and image editing program with simple interface and layered organization `#c#` `#gtk3`.
+- [Pinta](https://www.pinta-project.com) - Drawing and image editing program with simple interface and layered organization `#csharp` `#gtk3`.
 - [RS-Paint](https://github.com/lucasscharenbroch/rs-paint) - A light-weight image editor inspired by MS-Paint `#rust` `#gtk4`.
 - [Swappy](https://github.com/jtheoof/swappy) - Wayland native screenshot editing tool `#c` `#gtk3`.
 
@@ -405,6 +406,7 @@ this list aims to be broader and include apps from various other ecosystems in v
 ### Email, Personal information management (PIM)
 
 - [Astroid](https://astroidmail.github.io) - Lightweight and fast Mail User Agent that provides a GUI to searching, displaying and composing email using [notmuch](https://notmuchmail.org) as backend `#c++` `#gtk3`.
+- [Balsa](https://gitlab.gnome.org/GNOME/balsa) - Lightweight email client `#c` `#gtk3`.
 - [Claws Mail](https://claws-mail.org) - Email client with plugin system to extend functionalities (news reader, calendar, etc.)  `#c` `#gtk3`.
 - [Geary](https://gitlab.gnome.org/GNOME/geary) - Email application for the GNOME desktop build around conversations `#vala` `#gtk3` `#libhandy`.
 - [GNOME Contacts](https://apps.gnome.org/Contacts) - Address book for contacts information and contact management for the GNOME desktop `#vala` `#gtk4` `#libadwaita` `#gnome`. 
@@ -711,15 +713,21 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [Crypto](https://gitlab.com/ErikWallstrom/Crypto) - Cryptocyrreny watcher `#c` `#gtk3`.
 - [Markets](https://github.com/bitstower/markets) - Stock, currency and cryptocurrency tracker `#vala` `#gtk3` `#libhandy`.
 
+### Emulators and Compatibility Layers
+
+- [Bottles](https://usebottles.com) - GUI and environment manager to run Windows applications and games on Linux, built on top of Wine `#python` `#gtk4` `#libadwaita`.
+- [Fuse](https://fuse-emulator.sourceforge.net/) - ZX Spectrum emulator `#c` `#gtk3`.
+
 ## Development
 
 ### Containers
 
 - [Atoms](https://github.com/AtomsDevs/Atoms) - Linux Chroot environments manager `#python` `#gtk4` `#libadwaita`.
-- [Bottles](https://github.com/bottlesdevs/Bottles) - Wine environments manager `#python` `#gtk4` `#libadwaita`.
+- [Boxes](https://apps.gnome.org/Boxes) - Virtual machine manager for the GNOME desktop `#vala` `#gtk3`.
 - [BoxBuddy](https://github.com/Dvlv/BoxBuddyRS) - Graphical interface for Distrobox `#rust` `#gtk4` `#libadwaita`.
 - [Pods](https://github.com/marhkb/pods) - Podman containers manager `#rust` `#gtk4` `#libadwaita`.
 - [Toolbx Tuner](https://github.com/13hannes11/toolbx-tuner) - [toolbx](https://containertoolbx.org) containers manager `#rust` `#gtk4` `#libadwaita`.
+- [Virtual Machine Manager (virt-manager)](https://github.com/virt-manager/virt-manager) - Graphical tool for managing virtual machines such as QEMU/KVM, Xen, LXC `#python` `#gtk3`.
 
 ### Documentation
 
@@ -917,6 +925,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 - [FlatSync](https://gitlab.gnome.org/Cogitri/flatsync) - GUI to synchronise Flatpak packages across devices `#rust` `#gtk4` `#libadwaita`.
 - [GNOME Disks (disk utility](https://apps.gnome.org/DiskUtility) - Disk management utility for the GNOME desktop to inspect, format, partition, and configure disks and block devices `#c` `#gtk4` `#libadwaita` `#gnome`.
 - [Hidamari](https://github.com/jeffshee/hidamari) - Application to configure video wallpaper for X11 and Wayland `#python` `#gtk3`.
+- [GParted](https://gparted.org) - Partition editor for graphically managing your disk partitions `#c++` `#gtk3`.
 - [Lan Mouse](https://github.com/feschber/lan-mouse) - Mouse and keyboard sharing software (software KVM switch) designed for Wayland `#rust` `#gtk4` `#libadwaita`.
 - [Login Manager Settings](https://gdm-settings.github.io) - GNOME's Login Manager (GDM) settings manager `#python` `#gtk4` `#libadwaita`.
 - [Luminance](https://github.com/sidevesh/Luminance) - Simple application to control brightness of displays (including external) supporting DDC/CI `#c` `#gtk4` `#libadwaita`.
